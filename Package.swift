@@ -4,7 +4,7 @@ import PackageDescription
 let package = Package(
     name: "SwiftString",
     targets: [],
-    dependencies: [],
 	swiftLanguageVersions: [3],
+    dependencies: [],
     exclude: []
 )
